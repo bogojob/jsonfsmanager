@@ -1,0 +1,168 @@
+[
+  {
+    "_id": "61b8645a684702c3180ac9bf",
+    "mail": "mymail@umbrella.com",
+    "firstname": "red",
+    "lastname": "carpet",
+    "filesystem": {
+      "nodes": [
+        {
+          "name": "cities",
+          "type": "directory",
+          "mime": "",
+          "size": 100000,
+          "childs": [
+            {
+              "name": "Vinice",
+              "type": "directory",
+              "mime": "",
+              "size": 0,
+              "childs": [],
+              "_id": "61bdca6e2aa6c5c6f4313451"
+            },
+            {
+              "name": "IMG_20210906_105712.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 100000,
+              "childs": [],
+              "parts": [],
+              "_id": "61f826088e67b91c1d492f4b"
+            }
+          ],
+          "_id": "61bdca6e2aa6c5c6f4313450"
+        },
+        {
+          "name": "bike collections",
+          "type": "directory",
+          "mime": "",
+          "size": 6245103,
+          "childs": [
+            {
+              "name": "IMG_20210906_105712.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 1902681,
+              "childs": [],
+              "parts": [],
+              "_id": "61f830a4a88e7b3d682a303a"
+            },
+            {
+              "name": "IMG_20210906_105454.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 1961514,
+              "childs": [],
+              "parts": [],
+              "_id": "61f830a9a88e7b3d682a3043"
+            },
+            {
+              "name": "IMG_20210906_105341.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 2180909,
+              "childs": [],
+              "parts": [],
+              "_id": "61f830ada88e7b3d682a304d"
+            },
+            {
+              "name": "photo Milan",
+              "type": "directory",
+              "mime": "",
+              "size": 0,
+              "childs": [],
+              "_id": "620be54e68a888c20a6b79af"
+            }
+          ],
+          "_id": "6201485ab87f87aec6df050c"
+        }
+      ],
+      "size": 8947784
+    }
+  },
+  {
+    "_id": "61d1e8f361d0a7d7786749ee",
+    "mail": "mysecond@umbrella.com",
+    "firstname": "Steve",
+    "lastname": "Pipe",
+    "filesystem": {
+      "nodes": [
+        {
+          "name": "Region",
+          "type": "directory",
+          "mime": "",
+          "size": 100000,
+          "childs": [
+            {
+              "name": "Lazio",
+              "type": "directory",
+              "mime": "",
+              "size": 0,
+              "childs": [],
+              "parts": [],
+              "_id": "61bdca6e2aa6c5c6f4313451"
+            },
+            {
+              "name": "IMG_20210906_105715.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 100000,
+              "childs": [],
+              "parts": [],
+              "_id": "61f826088e67b91c1d692f4c"
+            }
+          ],
+          "parts": [],
+          "_id": "61bdca6e2aa6c5c6f4313453"
+        },
+        {
+          "name": "car collection",
+          "type": "directory",
+          "mime": "",
+          "size": 6245103,
+          "childs": [
+            {
+              "name": "ferrari.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 1902681,
+              "childs": [],
+              "parts": [],
+              "_id": "61f830a4a88e7b3d682a883d"
+            },
+            {
+              "name": "maserati.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 1961514,
+              "childs": [],
+              "parts": [],
+              "_id": "61f830a9a88e7b3d681abb4b"
+            },
+            {
+              "name": "porche.jpg",
+              "type": "file",
+              "mime": "image/jpeg",
+              "size": 2180909,
+              "childs": [],
+              "parts": [],
+              "_id": "71f830ada88e773d672a304d"
+            },
+            {
+              "name": "little cars",
+              "type": "directory",
+              "mime": "",
+              "size": 0,
+              "childs": [],
+              "parts": [],
+              "_id": "620bea4e68a888c20a6b79af"
+            }
+          ],
+          "parts": [],
+          "_id": "6201485ab87f87aec6df097c"
+        }
+      ],
+      "size": 8947784
+    }
+  }
+]
